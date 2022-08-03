@@ -1,16 +1,19 @@
 # todo_app
 
-A new Flutter project.
 
-## Getting Started
+<p float="left">
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/akshat-25/Todo_App/blob/master/assets/sc1.jpg" width="200" height="400">
+&nbsp; &nbsp; 
+&nbsp; &nbsp; 
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/akshat-25/Todo_App/blob/master/assets/sc2.jpg" width="200" height="400">
+&nbsp; &nbsp; 
+&nbsp; &nbsp; 
+<img src="https://github.com/akshat-25/Todo_App/blob/master/assets/sc3.jpg" width="200" height="400">
+&nbsp; &nbsp; 
+&nbsp; &nbsp; 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/akshat-25/Todo_App/blob/master/assets/sc4.jpg" width="200" height="400">
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
